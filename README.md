@@ -11,7 +11,7 @@ I am working on a machine learning project and attempting to fit my training dat
 from sklearn.tree import DecisionTreeClassifier
 import numpy as np
 
-# Create a mock training dataset with mismatched shapes
+# Create a training dataset with mismatched shapes
 X_train = np.array([[1, 2], [3, 4], [5, 6]])
 y_train = np.array([0, 1])
 
