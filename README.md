@@ -27,5 +27,5 @@ except Exception as e:
 
 ## Error
 ```
-An error occurred: Found input variables with inconsistent numbers of samples: [3, 2]
+An error occurred: Number of labels=2 does not match number of samples=3
 ```
