@@ -2,7 +2,7 @@
 
 ## Problem Description
 
-I am working on a machine learning project and attempting to fit my training dataset (`X_train`) into a Decision Tree Classifier using scikit-learn. However, when I execute the `fit` method, I encounter an error.
+I am working on the machine learning assignment and attempting to fit my training dataset (`X_train`) into a Decision Tree Classifier using scikit-learn. However, when I execute the `fit` method, I encounter an error.
 
 ## Code
 
